@@ -16,7 +16,7 @@
     <label> Lastname: </label>         
     <input type="text" name="lastname" size="15"/> <br> <br>  
     <label>DOB:</label> 
-    <input type="date" id="dob" name="dob"/><br> <br>
+        <input type="date" id="dob" name="dob"/><br> <br>
       
     <label>   
     Course :  
@@ -36,9 +36,9 @@
     <label>   
     Gender :  
     </label><br>  
-    <input type="radio" name="male"/> Male   
-    <input type="radio" name="female"/> Female   
-    <input type="radio" name="other"/> Other  
+    <input type="radio" /> Male   
+    <input type="radio" /> Female   
+    <input type="radio" /> Other  
     <br>  
     <br>  
       
@@ -57,11 +57,11 @@
     <br> <br>  
     Hobbies:
     </label><br> 
-    <input type="checkbox" name="male"/> studying<br>     
-    <input type="checkbox" name="male"/> reading<br>   
-    <input type="checkbox" name="male"/> writing
+    <input type="checkbox" /> studying<br>     
+    <input type="checkbox" /> reading<br>   
+    <input type="checkbox" /> writing
     <br> <br> 
     <input type="button" value="Submit"/>  
     </form>  
     </body>  
-    </html>   
+    </html>  
