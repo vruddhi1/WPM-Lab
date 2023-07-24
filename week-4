@@ -1,0 +1,19 @@
+node --version
+npm --version
+ npm install -g express generator
+------->if security error then
+        1>Set-ExecutionPolicy -Scope Currentuser
+        2>SxecutionPolicy:Bypass
+express
+npm install ----(installing dependencies)
+npm audit fix --force ------>execute until 0 vulnerabilities
+SET DEBUG=post-it:*; npm start
+
+
+npm install -g nodemon//monitoring node commands
+nodemon
+express --view=pug --git
+npm install ----(installing dependencies)
+npm audit fix --force ------>execute until 0 vulnerabilities
+SET DEBUG=post-it:*; npm start
+nodemon
