@@ -1,1 +1,48 @@
-  
+------ STATIC WEBPAGE------------
+<html>
+<head>
+<title>My first webpage</title>
+</head>
+<body>
+<h1>welcome</h1>
+</body>
+</html>
+
+
+
+--------------IMAGES----------------------------
+
+<html>
+<head>
+<title>My first webpage</title>
+</head>
+<body>
+<h2>HTML Images</h2>
+<img src="dog.jpg" alt="cant load" width="104" height="142">
+</body>
+</html>
+
+
+------------------------IMAGE LINK---------------
+
+<html>
+<head>
+<title>My first webpage</title>
+</head>
+<body>
+<h2>HTML Links</h2>
+<a href="www.google.com" target="_blank"><img src="dog.jpg" alt="cannot load" width="104" height="142"></a>
+</body>
+</html>
+
+----------------LINKING TWO STATIC PAGES-------------------
+
+<html>
+<head>
+<title>My first webpage</title>
+</head>
+<body>
+<h2>HTML Links</h2>
+<a href="C:\Users\CPII\Desktop\WEB\FILE1" target="_blank">LINK TO FIRST PAGE</a>
+</body>
+</html>  
